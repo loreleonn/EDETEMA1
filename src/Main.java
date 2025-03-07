@@ -11,6 +11,7 @@ public class Main { //nunca se le pide nada al usuario fuera del main
         return ((years * 365) + (meses * 30) + dias) * 24 * 60 * 60;
     }
 
+
     public static void main(String[] args) {
         //ejercicio 1 opcion 1, sin usar metodos
         byte segs1 = 60;
